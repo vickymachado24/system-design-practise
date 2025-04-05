@@ -1,4 +1,4 @@
-package com.machado.lld.strategypattern.com.machado.lld.strategypattern.withstrategypattern.strategy;
+package com.machado.lld.strategypattern.withstrategypattern.strategy;
 
 public class NormalDrive implements Drive {
     @Override

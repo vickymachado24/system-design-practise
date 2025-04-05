@@ -1,4 +1,4 @@
-package com.machado.lld.strategypattern.com.machado.lld.strategypattern.withoutstrategy;
+package com.machado.lld.strategypattern.withoutstrategy;
 
 
 //base class
